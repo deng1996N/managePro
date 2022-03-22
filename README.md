@@ -1,4 +1,4 @@
-# musicpro
+# managepro
 
 ## Project setup
 ```
