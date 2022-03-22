@@ -1,6 +1,0 @@
-a v1
-<<<<<<< Updated upstream
-a finsh bugs
-=======
-a v2 50%
->>>>>>> Stashed changes
